@@ -1,11 +1,11 @@
 # Adaptive Puzzle Game (APG)
 
-_Project Description_
+### Project Description
 
 Adaptive Puzzle Game is a puzzle-based gaming program where players dive into a journey of puzzles. Each player must log in or register to save their progress. The game presents puzzles of different types and difficulties, and the difficulty adjusts or ‘adapts’ based on the player’s performance.</br>
 The project uses ‘arrays’ to store puzzles; ‘strings’ for user input and riddles; ‘structures’ to organize player data; and ‘functions’ to handle tasks such as authentication, puzzle generation, and difficulty updates. It also uses ‘files’ operations to save and load user accounts, scores, and progress. The ‘loops’ constitute the main game loop, which is repeated with each puzzle attempt, etc., within the program.
 
-_Project Features_
+### Project Features
 
 The following features will be included:
 
@@ -33,7 +33,7 @@ The following features will be included:
 -> Each room = one puzzle.</br>
 -> Room transitions with ASCII-based UI.</br>
 
-_My Contributions_
+### My Contributions
 
 For this project, I primarily focused on the core gameplay mechanics and the visual presentation:
 
