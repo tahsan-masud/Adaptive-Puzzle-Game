@@ -1,8 +1,5 @@
-# Adaptive_Puzzle_Game_Project
+# Adaptive Puzzle Game (APG)
 </br>
-Project Name:			       Adaptive Puzzle Game
-
-
 Project Description:</br>
 Adaptive Puzzle Game is a puzzle-based gaming program where players dive into a journey of puzzles. Each player must log in or register to save their progress. The game presents puzzles of different types and difficulties, and the difficulty adjusts or ‘adapts’ based on the player’s performance.</br>
 The project uses ‘arrays’ to store puzzles; ‘strings’ for user input and riddles; ‘structures’ to organize player data; and ‘functions’ to handle tasks such as authentication, puzzle generation, and difficulty updates. It also uses ‘files’ operations to save and load user accounts, scores, and progress. The ‘loops’ constitute the main game loop, which is repeated with each puzzle attempt, etc., within the program.
@@ -34,11 +31,18 @@ The following features will be included:
 -> Each room = one puzzle.</br>
 -> Room transitions with ASCII-based UI.</br>
 
+My Contributions:</br>
+For this project, I primarily focused on the core gameplay mechanics and the visual presentation:
 
+✔ Core Game Logic:</br>
+-> Implemented the main gameplay loop that drives the puzzle progression.</br>
+-> Developed the underlying rules for how the game processes answers and transitions between states.</br>
 
+✔ Puzzle Randomization:</br>
+-> Engineered the randomization system for the questions, ensuring a fresh and unpredictable experience for each playthrough.</br>
 
-  
-
-
+✔ UI & Aesthetic Design:</br>
+-> Designed the stylized starting title screen to create an engaging first impression.</br>
+-> Integrated color and layout formatting within the terminal output to make the game visually appealing and easier to read.</br>
 ------------------------X------------------------
 
