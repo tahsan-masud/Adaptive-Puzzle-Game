@@ -44,5 +44,3 @@ For this project, I primarily focused on the core gameplay mechanics and the vis
 ✔ UI & Aesthetic Design:</br>
 -> Designed the stylized starting title screen to create an engaging first impression.</br>
 -> Integrated color and layout formatting within the terminal output to make the game visually appealing and easier to read.</br>
-------------------------X------------------------
-
