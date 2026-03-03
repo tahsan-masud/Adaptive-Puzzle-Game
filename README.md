@@ -10,40 +10,40 @@ The project uses ‘arrays’ to store puzzles; ‘strings’ for user input and
 The following features will be included:
 
 ✔ User Authentication System:</br>
--> New user signup or registration.</br>
--> Log in using stored credentials.</br>
--> Each user receives an individual save file containing their stored credentials.</br>
+→ New user signup or registration.</br>
+→ Log in using stored credentials.</br>
+→ Each user receives an individual save file containing their stored credentials.</br>
 
 ✔Adaptive Difficulty:</br>
--> Difficulty increases after correct answers.</br>
--> Difficulty decreases for wrong answers.</br>
--> Hints appear if the player needs to use hints.</br>
+→ Difficulty increases after correct answers.</br>
+→ Difficulty decreases for wrong answers.</br>
+→ Hints appear if the player needs to use hints.</br>
 		                                                                                                      
 ✔ Puzzle Categories:</br>
--> Logic puzzles.</br>
--> Math and number puzzles.</br>
--> Scrambled word puzzles.</br>
+→ Logic puzzles.</br>
+→ Math and number puzzles.</br>
+→ Scrambled word puzzles.</br>
 
 ✔ Player Progress Saving:</br>
--> Level, puzzle stats are saved in a file.</br>
--> The player can exit at any time and resume later.</br>
--> Save file updated after every puzzle.</br>
+→ Level, puzzle stats are saved in a file.</br>
+→ The player can exit at any time and resume later.</br>
+→ Save file updated after every puzzle.</br>
 
 ✔ Structured Puzzle Rooms:</br>
--> Each room = one puzzle.</br>
--> Room transitions with ASCII-based UI.</br>
+→ Each room = one puzzle.</br>
+→ Room transitions with ASCII-based UI.</br>
 
 ### My Contributions
 
 For this project, I primarily focused on the core gameplay mechanics and the visual presentation:
 
 ✔ Core Game Logic:</br>
--> Implemented the main gameplay loop that drives the puzzle progression.</br>
--> Developed the underlying rules for how the game processes answers and transitions between states.</br>
+→ Implemented the main gameplay loop that drives the puzzle progression.</br>
+→ Developed the underlying rules for how the game processes answers and transitions between states.</br>
 
 ✔ Puzzle Randomization:</br>
--> Engineered the randomization system for the questions, ensuring a fresh and unpredictable experience for each playthrough.</br>
+→ Engineered the randomization system for the questions, ensuring a fresh and unpredictable experience for each playthrough.</br>
 
 ✔ UI & Aesthetic Design:</br>
--> Designed the stylized starting title screen to create an engaging first impression.</br>
--> Integrated color and layout formatting within the terminal output to make the game visually appealing and easier to read.</br>
+→ Designed the stylized starting title screen to create an engaging first impression.</br>
+→ Integrated color and layout formatting within the terminal output to make the game visually appealing and easier to read.</br>
